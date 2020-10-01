@@ -10,7 +10,7 @@ standard: au
 
 ## General Notes
 
-This configuration is for the [Brilliant Smart Wi-Fi RGB Garden Light](https://www.brilliantsmart.com.au/smart-products/garden/smart-garden-kit/)
+This configuration is for the [Brilliant Smart Wi-Fi RGB Garden Light](https://www.brilliantsmart.com.au/smart-products/garden-old/smart-garden-kit/)
 which comes as a kit with 4 LED RGB spotlights, a transformer and the controller.
 
 ![Brilliant Smart Wi-Fi RGB Garden Light Kit](/Brilliant-Smart-Wi-Fi-RGB-Garden-Light.jpg "Brilliant Smart Wi-Fi RGB Garden Light Kit")
